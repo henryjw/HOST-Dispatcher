@@ -6,8 +6,8 @@
 #define QUEUE_H	
 
 #include <stdbool.h>
-#include "memory_mgmt.h"
-#include "util.h"
+#include "../inc/memory_mgmt.h"
+#include "../inc/util.h"
 
 /*************Process statuses*************/
 #define NOT_STARTED 0

@@ -6,9 +6,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "memory_mgmt.h"
-#include "process_mgmt.h"
-#include "queue.h"
+#include "../inc/memory_mgmt.h"
+#include "../inc/process_mgmt.h"
+#include "../inc/queue.h"
 
 #define DEBUG_MEMORY false	//Debug flag specific to this file
 #define TOTAL_MEMORY 1024	//Total amount of memory in the system

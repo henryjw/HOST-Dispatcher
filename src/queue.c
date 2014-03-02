@@ -5,7 +5,7 @@
 
 #include<stdlib.h>
 #include<stdio.h>
-#include "queue.h"
+#include "../inc/queue.h"
 
 #define DEBUG_QUEUE false //Debug flag specific to this file
 

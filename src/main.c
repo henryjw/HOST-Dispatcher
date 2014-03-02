@@ -7,9 +7,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "process_mgmt.h"
-#include "memory_mgmt.h"
-#include "queue.h"
+#include "../inc/process_mgmt.h"
 
 int main(int argc, char* argv[]) {
 	char * fileName = NULL;

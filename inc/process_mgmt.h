@@ -6,8 +6,8 @@
 #ifndef PROCESS_MGMT_H
 #define PROCESS_MGMT_H
 
-#include "queue.h"
-#include "util.h"
+#include "../inc/queue.h"
+#include "../inc/util.h"
 
 /***************Total Resources***************/
 #define  TOTAL_MEM 	  1024	//Total amount of memory (in MB) for processes

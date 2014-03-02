@@ -8,9 +8,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h> //For process management (execvp, kill, etc.)
-#include "process_mgmt.h"
-#include "memory_mgmt.h"
-#include "queue.h"
+#include "../inc/process_mgmt.h"
+#include "../inc/memory_mgmt.h"
+#include "../inc/queue.h"
 
 #define DEBUG_PROCESS false						//Debug flag specific to this file
 
